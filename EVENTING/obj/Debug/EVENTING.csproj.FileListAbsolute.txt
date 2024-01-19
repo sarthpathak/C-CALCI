@@ -1,0 +1,7 @@
+C:\Users\sarthak.pathak\source\repos\EVENTING\EVENTING\bin\Debug\EVENTING.exe.config
+C:\Users\sarthak.pathak\source\repos\EVENTING\EVENTING\bin\Debug\EVENTING.exe
+C:\Users\sarthak.pathak\source\repos\EVENTING\EVENTING\bin\Debug\EVENTING.pdb
+C:\Users\sarthak.pathak\source\repos\EVENTING\EVENTING\obj\Debug\EVENTING.csproj.AssemblyReference.cache
+C:\Users\sarthak.pathak\source\repos\EVENTING\EVENTING\obj\Debug\EVENTING.csproj.CoreCompileInputs.cache
+C:\Users\sarthak.pathak\source\repos\EVENTING\EVENTING\obj\Debug\EVENTING.exe
+C:\Users\sarthak.pathak\source\repos\EVENTING\EVENTING\obj\Debug\EVENTING.pdb
